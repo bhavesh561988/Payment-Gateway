@@ -1,0 +1,9 @@
+Merchant Login Details: 
+
+URL: camp.merchantwarrior.com
+Username: ryan9036
+Password: offers2013
+
+Merchant UUID: 51f9b7966612d
+API Key: txwmyifu
+API Passphrase: bnl7xrg7

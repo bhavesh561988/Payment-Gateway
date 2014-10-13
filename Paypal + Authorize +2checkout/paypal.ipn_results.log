@@ -1,0 +1,176 @@
+[07/17/2010 9:32 AM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=5880.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=6XJRNFMWVCHRN, tax=0.00, address_street=1 Main St, payment_date=07:37:17 Jul 17, 2010 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Test, mc_fee=170.82, address_country_code=US, address_name=Test User, notify_version=3.0, custom=2266, payer_status=verified, business=chaudh_1245213166_biz@yahoo.co.in, address_country=United States, address_city=San Jose, quantity=1, verify_sign=A-tSbb41o2nF5DOxjbqspJB8WF7lABsjnBL9CQBDmGHt310FU-FEx2so, payer_email=chaudh_1245212254_per@yahoo.co.in, txn_id=20D02958DY1166253, payment_type=instant, last_name=User, address_state=CA, receiver_email=chaudh_1245213166_biz@yahoo.co.in, payment_fee=170.82, receiver_id=AA8U45MVBGPUS, txn_type=web_accept, item_name=Employee Subscribe Fees, mc_currency=USD, item_number=001, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=2266, payment_gross=5880.00, shipping=0.00, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Sat, 17 Jul 2010 16:32:03 GMT
+Server: Apache/1.3.33 (Unix) mod_fastcgi/2.4.2 mod_gzip/1.3.26.1a mod_ssl/2.8.22 OpenSSL/0.9.7e
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=FvO14msopbht2NKculcYnns4o9cdkDQ1NWE_Q390SwuqD74IWDwVlk970boglVn4vrev8nIFrgzuql-LwgRnxGZo0PuPsKXvpDPmFM3Q330PZURBT8RS05bRqNW51sgs16dAeG%7cdWY0UPGd3gMe4MirtNe8b-T7jImWw4qkxeQxxZ3LhpBE4DuSslIRSKzVPvHDoEbHEkibYG%7cjBHP7tPh13tQlT8tWV5cNwzh9UHhCobDDhAmZOe1QS99N_Gnk_P0s6C2YwcoYZysLWnTwG%7c1279384324; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 14-Jul-2020 16:32:04 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 12-Jul-2030 16:32:04 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.191.196.11.223311279384323925; path=/; expires=Fri, 03-Jun-04 10:03:47 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8  
+VERIFIED
+0
+
+
+
+[07/17/2010 10:21 AM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=784.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=6XJRNFMWVCHRN, tax=0.00, address_street=1 Main St, payment_date=07:42:12 Jul 17, 2010 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Test, mc_fee=23.04, address_country_code=US, address_name=Test User, notify_version=3.0, custom=0, payer_status=verified, business=chaudh_1245213166_biz@yahoo.co.in, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AFUnTXZNzywENfi2s7wp9ysE-uQqA2NShO4eMFYr5cR8vA9j5FJX9zLT, payer_email=chaudh_1245212254_per@yahoo.co.in, txn_id=8YD97649GC519273T, payment_type=instant, last_name=User, address_state=CA, receiver_email=chaudh_1245213166_biz@yahoo.co.in, payment_fee=23.04, receiver_id=AA8U45MVBGPUS, txn_type=web_accept, item_name=Employee Subscribe Fees, mc_currency=USD, item_number=001, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=0, payment_gross=784.00, shipping=0.00, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Sat, 17 Jul 2010 17:21:36 GMT
+Server: Apache/1.3.33 (Unix) mod_fastcgi/2.4.2 mod_gzip/1.3.26.1a mod_ssl/2.8.22 OpenSSL/0.9.7e
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=p4Mh4HHd14qkG0dkg7yV6pygCP-h10xxWyTacT9xlQQ4MAQYAB52-MzXHnF3VrjcsPwL9cVD7V44cUYlWz8sBdtOHgwEYgAaNyIQ8rQxlqYS9AdI1a4szigDPu_c33MsZkH-Vm%7cbSmCVxXQhGEEHLFsShpbdjP0PeppIiG_XNJJR6RhUSg3xLyCqzPPMe5JuvWVkP0JTHwc2m%7cZbghDqdzeq7C1pPNypujbEmZlqMc78RFeKSlx8iAkeIeGsGyHJsjpEkzjjoPFZ21MJmns0%7c1279387296; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 14-Jul-2020 17:21:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 12-Jul-2030 17:21:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.191.196.11.104081279387296202; path=/; expires=Fri, 03-Jun-04 10:53:20 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8  
+VERIFIED
+0
+
+
+
+[07/17/2010 10:43 AM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=5880.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=6XJRNFMWVCHRN, tax=0.00, address_street=1 Main St, payment_date=07:44:36 Jul 17, 2010 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Test, mc_fee=170.82, address_country_code=US, address_name=Test User, notify_version=3.0, custom=2267, payer_status=verified, business=chaudh_1245213166_biz@yahoo.co.in, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31ATDD6AFP2eGqpjXmp.3LUEUwRiLY, payer_email=chaudh_1245212254_per@yahoo.co.in, txn_id=37H76324N5942920D, payment_type=instant, last_name=User, address_state=CA, receiver_email=chaudh_1245213166_biz@yahoo.co.in, payment_fee=170.82, receiver_id=AA8U45MVBGPUS, txn_type=web_accept, item_name=Employee Subscribe Fees, mc_currency=USD, item_number=001, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=2267, payment_gross=5880.00, shipping=0.00, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Sat, 17 Jul 2010 17:43:08 GMT
+Server: Apache/1.3.33 (Unix) mod_fastcgi/2.4.2 mod_gzip/1.3.26.1a mod_ssl/2.8.22 OpenSSL/0.9.7e
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=M_jD5JpNHQ-6moZ3Z9YKJOKAUBOfcyXX5dX2wvv_cG7bv_TMSgZqARHe4w9fmBUENPm7ul6jIHTgJE3E2P_zheTmyDAUIN5WUgwBng67ck1a-9D9ikaGXlQVYEt6HHtiuXD62W%7c5zhK8qykqwt2LJFcBzNePQ6Ts4P47igKRLY8cLTnkpcReNsjCsjpLBvrOZEGKXRtrw0oMG%7colUwsVALW5nLzPwz7YPXpFl3Gu9ZcLb2KXGcGJHuhaO41Oj7S2V2_WmWHU-vvTTEvXZHrG%7c1279388589; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 14-Jul-2020 17:43:09 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 12-Jul-2030 17:43:09 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.191.196.11.133611279388588955; path=/; expires=Fri, 03-Jun-04 11:14:52 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8  
+VERIFIED
+0
+
+
+
+[07/19/2010 8:59 AM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=7084.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=6XJRNFMWVCHRN, tax=0.00, address_street=1 Main St, payment_date=07:18:03 Jul 19, 2010 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Test, mc_fee=205.74, address_country_code=US, address_name=Test User, notify_version=3.0, custom=2245, payer_status=verified, business=chaudh_1245213166_biz@yahoo.co.in, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31AZVNCJDezb-Jo1CWXq5bKDZH4BKi, payer_email=chaudh_1245212254_per@yahoo.co.in, txn_id=8BC76544P51918717, payment_type=instant, last_name=User, address_state=CA, receiver_email=chaudh_1245213166_biz@yahoo.co.in, payment_fee=205.74, receiver_id=AA8U45MVBGPUS, txn_type=web_accept, item_name=Employee Subscribe Fees, mc_currency=USD, item_number=001, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=2245, payment_gross=7084.00, shipping=0.00, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Mon, 19 Jul 2010 15:59:11 GMT
+Server: Apache/1.3.33 (Unix) mod_fastcgi/2.4.2 mod_gzip/1.3.26.1a mod_ssl/2.8.22 OpenSSL/0.9.7e
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=ceJVCwegJg1qiHZ8jpEYyFaT0EyAx8CrOPJoCWUMxY-0o8GyoDCD90ucJiY9ApYYv69kWH_Wq3AlpWpDiSOvgG02CWtp3Tkgx-CL3ZIA0pW2KuuejkHCTzYzcBg9cmPahjeyLm%7c3N2ndqOnXY1iuyxi0kzh03zy0umkbxSaK5Ad_aBXV4pqDHwlgPtQ3Uzlf6OMIi1pJXUC7G%7cNIjYycxgjD0dcIK_HWDSIIkkvipg-yAYrLleKifJPsbT85CWyt6lUlVpRRixR4QDn2zSQ0%7c1279555151; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 16-Jul-2020 15:59:11 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 14-Jul-2030 15:59:11 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.191.196.11.123001279555151264; path=/; expires=Sun, 05-Jun-04 09:30:55 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8  
+VERIFIED
+0
+
+
+
+[07/19/2010 9:35 AM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=787.50, protection_eligibility=Eligible, address_status=confirmed, payer_id=6XJRNFMWVCHRN, tax=0.00, address_street=1 Main St, payment_date=07:55:41 Jul 19, 2010 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Test, mc_fee=23.14, address_country_code=US, address_name=Test User, notify_version=3.0, custom=2247, payer_status=verified, business=chaudh_1245213166_biz@yahoo.co.in, address_country=United States, address_city=San Jose, quantity=1, verify_sign=A.S7zBrkvhPs3ARC.19mGXnfONYvAUtnqNzgJC1dWll7kBIC-jzOUbA4, payer_email=chaudh_1245212254_per@yahoo.co.in, txn_id=6NM10694297866706, payment_type=instant, last_name=User, address_state=CA, receiver_email=chaudh_1245213166_biz@yahoo.co.in, payment_fee=23.14, receiver_id=AA8U45MVBGPUS, txn_type=web_accept, item_name=Employee Subscribe Fees, mc_currency=USD, item_number=001, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=2247, payment_gross=787.50, shipping=0.00, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Mon, 19 Jul 2010 16:35:26 GMT
+Server: Apache/1.3.33 (Unix) mod_fastcgi/2.4.2 mod_gzip/1.3.26.1a mod_ssl/2.8.22 OpenSSL/0.9.7e
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=bYExYjMrMxVyfZ2-w4SLFuO7bxVKI0U2UmLPbqjyWNs2fqZsN304s6IoBro0V4drTkE7R_DVBbNDEyKODIgzWFr_EvHbCm5DjHm5KnT3TBF-OWzrYw402vOSctq4Nt39pVvTxm%7cH_-4SYLse_E288EDCAYkWwrnMFssiWb8-eiBaGflytgDBJRHQojnjYdnUbsydahIwkcC_G%7c-Q-azG5CgPoROmLukuLJitTv42JBE-S52iIYSl8ip4mSxpWoQIFEWD_10TEe-Hep_oKRC0%7c1279557326; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 16-Jul-2020 16:35:26 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 14-Jul-2030 16:35:26 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.191.196.11.29590127955732654; path=/; expires=Sun, 05-Jun-04 10:07:10 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8  
+VERIFIED
+0
+
+
+
+[07/19/2010 10:18 AM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=787.50, protection_eligibility=Eligible, address_status=confirmed, payer_id=6XJRNFMWVCHRN, tax=0.00, address_street=1 Main St, payment_date=09:40:34 Jul 19, 2010 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Test, mc_fee=23.14, address_country_code=US, address_name=Test User, notify_version=3.0, custom=2251, payer_status=verified, business=chaudh_1245213166_biz@yahoo.co.in, address_country=United States, address_city=San Jose, quantity=1, verify_sign=Aj3q7eaCE3-DatUcdS2TJIPbz0z2Acmfv52IDQyg6YqiZj.Wc9aOn42f, payer_email=chaudh_1245212254_per@yahoo.co.in, txn_id=15379735YA9701111, payment_type=instant, last_name=User, address_state=CA, receiver_email=chaudh_1245213166_biz@yahoo.co.in, payment_fee=23.14, receiver_id=AA8U45MVBGPUS, txn_type=web_accept, item_name=Employee Subscribe Fees, mc_currency=USD, item_number=001, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=2251, payment_gross=787.50, shipping=0.00, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Mon, 19 Jul 2010 17:18:11 GMT
+Server: Apache/1.3.33 (Unix) mod_fastcgi/2.4.2 mod_gzip/1.3.26.1a mod_ssl/2.8.22 OpenSSL/0.9.7e
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=9j5dSid6h7nDH_dyjxmccvifc2kiSETyAXVYMNfZu9KY-uFUtlP7zJ4WHNo1QE3MFQnSS0oiApiljGOaEK1FECdv5KAM-HyvZx9j4WaAYtdLxlCduJ-pthNiZ4E-3GzGM1Oz9G%7cVa17kyJUbUR0YnyArEVU2d5v-mriAidP7f1Uj87mhVe8gj9KNz0TxNIbZK2KrWYExL5MD0%7cSgkSpKrMZ21bzqYcfAfYPS9q5GBwINCBtVGyyk8aMpwe1hOfe7HthvteJI8gr6XHAOnHPW%7c1279559891; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 16-Jul-2020 17:18:11 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 14-Jul-2030 17:18:11 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.191.196.11.160921279559891359; path=/; expires=Sun, 05-Jun-04 10:49:55 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8  
+VERIFIED
+0
+
+
+
+[07/19/2010 11:29 AM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=784.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=6XJRNFMWVCHRN, tax=0.00, address_street=1 Main St, payment_date=07:09:36 Jul 19, 2010 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Test, mc_fee=23.04, address_country_code=US, address_name=Test User, notify_version=3.0, custom=0, payer_status=verified, business=chaudh_1245213166_biz@yahoo.co.in, address_country=United States, address_city=San Jose, quantity=1, verify_sign=A5OL36l5YGcdFmEZFkrvCHEfOfR9A6UX12yx0JBvx7c.241ALWHn7xif, payer_email=chaudh_1245212254_per@yahoo.co.in, txn_id=4DD998322D1792523, payment_type=instant, last_name=User, address_state=CA, receiver_email=chaudh_1245213166_biz@yahoo.co.in, payment_fee=23.04, receiver_id=AA8U45MVBGPUS, txn_type=web_accept, item_name=Employee Subscribe Fees, mc_currency=USD, item_number=001, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=0, payment_gross=784.00, shipping=0.00, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Mon, 19 Jul 2010 18:29:36 GMT
+Server: Apache/1.3.33 (Unix) mod_fastcgi/2.4.2 mod_gzip/1.3.26.1a mod_ssl/2.8.22 OpenSSL/0.9.7e
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=muiTwOXX9jmaAU6yxlBQeHtRMcKSmQqzN7RZI1oCgUUfFi5dwY0FM9x8Q14mVE-fECsnrSex1Iu3aiiHbbyzfJByWcBvXl7bIxj_SkfMHzcbpzhABevocNvA8xH1o4nUZh1FdW%7cGjNu_2tbq6Vkp7Xp6hWSduW5FyaJd7r3ysGaduPeUVnDIgsHbnCaaj67Vy-Pg6p2SKCP4m%7cYrgKWQgsuXTHmh5SJhHMpzK6hC0nlKnZiJRtnn5ON94U8n_6UsSsF0NbbvlUI51WSBmFiG%7c1279564176; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 16-Jul-2020 18:29:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 14-Jul-2030 18:29:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.191.196.11.172011279564176185; path=/; expires=Sun, 05-Jun-04 12:01:20 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8  
+VERIFIED
+0
+
+
+
+[07/19/2010 2:11 PM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=787.50, protection_eligibility=Eligible, address_status=confirmed, payer_id=6XJRNFMWVCHRN, tax=0.00, address_street=1 Main St, payment_date=10:06:35 Jul 19, 2010 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Test, mc_fee=23.14, address_country_code=US, address_name=Test User, notify_version=3.0, custom=2252, payer_status=verified, business=chaudh_1245213166_biz@yahoo.co.in, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31AP2MsXu8L5tdmXKEArYt.6u2f5ZF, payer_email=chaudh_1245212254_per@yahoo.co.in, txn_id=5J20784541323844J, payment_type=instant, last_name=User, address_state=CA, receiver_email=chaudh_1245213166_biz@yahoo.co.in, payment_fee=23.14, receiver_id=AA8U45MVBGPUS, txn_type=web_accept, item_name=Employee Subscribe Fees, mc_currency=USD, item_number=001, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=2252, payment_gross=787.50, shipping=0.00, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Mon, 19 Jul 2010 21:11:39 GMT
+Server: Apache/1.3.33 (Unix) mod_fastcgi/2.4.2 mod_gzip/1.3.26.1a mod_ssl/2.8.22 OpenSSL/0.9.7e
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=UD1oNVkwT7k3h9QwZbQxhnc1ztG5s29scMMiy8ouAZLbZiogKJ8wSeEcXWSww58iF3wJOzgH7n7X2EAZnZ1gW-1lBu424RhxzVZH9FG2HNhX5oQxBY4fYDGavegNhV3mmcD2hG%7cxku6WojWELG_Eu2uWvJ_5K4ucVVe6kAVW2yEPNKf0dJlmVeifeDywJHknq0XYgTqP82G6W%7cDaTvCU9oKtV0qRFi0Y_p9SVkHdQdELYKTU_8y5nAx-AHuKkRkWiFvj5jnsUDWhf-DocjU0%7c1279573899; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 16-Jul-2020 21:11:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 14-Jul-2030 21:11:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.191.196.11.55311279573899285; path=/; expires=Sun, 05-Jun-04 14:43:23 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8  
+VERIFIED
+0
+
+
+
